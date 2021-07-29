@@ -1,5 +1,5 @@
 # Customize NetworkX graph
-Instructions for this assignment: [Assignment 2 instructions.pdf](https://github.com/TimKong21/MEMGRAPH-Graph-Analytics-with-NetworkX/blob/main/Asssignments/Assignment%202_Customize%20NetworkX%20graph/Assignment%202%20instructions.pdff)
+Instructions for this assignment: [Assignment 2 instructions.pdf](https://github.com/TimKong21/MEMGRAPH-Graph-Analytics-with-NetworkX/blob/main/Asssignments/Assignment%202_Customize%20NetworkX%20graph/Assignment%202%20instructions.pdf)
 
 Data used for plotting: [graph.graphml.txt](https://github.com/TimKong21/MEMGRAPH-Graph-Analytics-with-NetworkX/blob/main/Asssignments/Assignment%202_Customize%20NetworkX%20graph/graph.graphml.txt)
 
